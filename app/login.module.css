@@ -29,3 +29,14 @@
     color: #93818b;
     text-align: center;
 }
+.input-field{
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+.heading-3{
+    font-size: 20px;
+    color: black;
+}
